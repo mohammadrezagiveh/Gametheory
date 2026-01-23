@@ -11,11 +11,6 @@ Players:
 - Player 1: Opposition (2 strategies: Escalate, Deescalate)
 - Player 2: Regime (4 strategies: combinations of E/D against Israel and Opposition)
 - Player 3: Israel (2 strategies: Escalate, Deescalate)
-
-Usage:
-    python run_game.py <csv_file>        # Run with custom probabilities
-    python run_game.py --sample          # Generate sample CSV
-    python run_game.py --pdf             # Use PDF example values
 """
 
 import sys
